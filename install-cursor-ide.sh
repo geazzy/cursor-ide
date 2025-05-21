@@ -13,7 +13,7 @@ DESTINATION_PATH="${APPDIR}/${FINAL_APPIMAGE_NAME}"
 # Nome do arquivo de ícone que será salvo em APPDIR
 ICON_FILENAME="cursor-ide.png"
 # URL para baixar o ícone oficial do Cursor
-ICON_URL="https://raw.githubusercontent.com/getcursor/cursor/main/apps/stable/static/icon.png"
+ICON_URL="https://avatars.githubusercontent.com/u/126759922?s=48&v=4"
 # Caminho completo para o arquivo de ícone salvo
 ICON_DEST_PATH="${APPDIR}/${ICON_FILENAME}"
 # Diretório e nome do arquivo .desktop
